@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import { SharedService } from './shared.service';
+import { ZoomitComponent } from './zoomit/zoomit.component';
 
 @Component({
   selector: 'app-root',
